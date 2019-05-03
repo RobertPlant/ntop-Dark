@@ -1,6 +1,7 @@
 body,
 .table,
-.table .table {
+.table .table,
+.form-signin {
     background: black;
     color: white;
 }
